@@ -1,0 +1,24 @@
+body {
+  background-image: url("../img/bg-stars.png"), linear-gradient(to right, #2e4f6b, #5982a6);
+  background-attachment: fixed;
+  color: #264f73; }
+
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  font-family: sans-serif; }
+
+body {
+  padding: 50px;
+  background-color: grey; }
+
+main, header {
+  background-color: white;
+  padding: 40px; }
+
+header {
+  text-align: center; }
+
+/*# sourceMappingURL=styles.css.map */
