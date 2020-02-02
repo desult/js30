@@ -18,7 +18,29 @@ main, header {
   background-color: white;
   padding: 40px; }
 
+main {
+  background-image: url("../img/asd.jpg"); }
+
 header {
   text-align: center; }
+
+.keys {
+  display: flex;
+  height: 120px; }
+
+.key {
+  flex: 1 1 0px;
+  background-color: #0d87f2;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  border: 6px #5982a6 solid;
+  border-radius: 16px;
+  box-shadow: 2px 8px 4px rgba(0, 0, 0, 0.1); }
+
+kbd {
+  display: block;
+  font-size: 3em;
+  color: white; }
 
 /*# sourceMappingURL=styles.css.map */
