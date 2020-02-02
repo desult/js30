@@ -1,0 +1,6 @@
+sitecake/
+sitecake-backup/
+sitecake-temp/
+.sass-cache/
+*.css.map
+admin.php
